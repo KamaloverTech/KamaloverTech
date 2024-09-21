@@ -1,12 +1,11 @@
 # Hello, I'm kamal Din
 <a href="https://www.linkedin.com/in/kamal-din-alhassan"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a health worker with over ten years of experience in patient care and data management. I am transitioning to cybersecurity to help protect sensitive data. My background in handling confidential data and ensuring regulatory compliance equips me to address the growing need for data protection.
+I am a health worker with over ten years of experience in patient care and data management, now transitioning to cybersecurity to help protect sensitive data. My experience in handling confidential information and ensuring regulatory compliance equips me to meet the growing demand for data protection.
 
 ## Objective
 
-My career as a nurse, where I protect patient data, has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst
-
+My career as a nurse, where I have protected patient data, has sparked a passion for cybersecurity. I am now eager to transition into this field, with a specific goal of joining a Security Operations Center (SOC) as a Tier 1 Analyst.
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
